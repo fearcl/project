@@ -13,7 +13,9 @@ var boolean = true;
 null;
 undefined;
 var obj = {};
-
+*/
+var c = 5;
+/*
 
 console.log(4/0);
 console.log("string"*9);
